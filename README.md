@@ -16,9 +16,32 @@ The **Data** responsibility is handled by **Abdul**, who is responsible for data
 
 ### Team
 
-* **Kishore G** — Machine Learning
-* **Abdul** — Data
-* **Dyneswaran** — Application
+#### Kishore G — ML
+
+* Feature Engineering
+* ML Model Development
+* Model Training
+* Model Evaluation
+* Model Saving
+* Model Integration
+
+#### Abdul — Data
+
+* Data Collection & Dataset Preparation
+* EDA & Visualization
+* Data Cleaning
+* Data Preprocessing
+* Feature Analysis
+* Documentation
+
+#### Dyneswaran — Application
+
+* Backend Development
+* API Development
+* Frontend / Web Application Development
+* Model–Backend Integration
+* Application Testing
+* Final Integration
 
 ---
 
@@ -32,11 +55,34 @@ The **Data** responsibility is handled by **Shalini**, who manages dataset colle
 
 ### Team
 
-* **Shalini** — Data
-* **Tamilselvan** — Machine Learning
-* **Kishore S** — Application / Team Lead
+#### Shalini — Data
 
----
+* Data Collection & Dataset Preparation
+* Data Cleaning
+* Data Preprocessing
+* EDA & Visualization
+* Feature Analysis
+* Documentation
+
+#### Tamilselvan — ML
+
+* K-Means Model Development
+* Cluster Formation
+* Cluster Analysis
+* Cluster Interpretation
+* Model Evaluation
+* Model Integration
+
+#### Kishore S — Application / Team Lead
+
+* Backend Development
+* API Development
+* Web Application Development
+* Model–Backend Integration
+* Application Testing
+* Final Integration
+* Overall Coordination
+
 
 # Project Structure
 
